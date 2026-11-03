@@ -1,0 +1,8 @@
+/* Беттің жалпы стильдері */
+body {
+    font-family: Arial, sans-serif;  /* шрифт */
+    background-color: #f4f6f8;       /* фон түсі */
+    color: #333;                     /* мәтін түсі */
+    padding: 2rem;                   /* ішкі шегініс */
+    text-align: center;              /* мәтінді ортаға туралау */
+}
